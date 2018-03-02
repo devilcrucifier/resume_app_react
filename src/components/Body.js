@@ -1,11 +1,13 @@
 import React from 'react';
-import Intro from './Intro.js';
+import MainDetails from './MainDetails.js';
+import MainArea from './MainArea.js';
 
 const Header = () => (
   <div>
-    <header className="App-body">
+    <header className="mainDetails">
       <h1 className="App-title"></h1>
-      <Intro />
+      <MainDetails />
+      <MainArea />
     </header>
   </div>
 );
