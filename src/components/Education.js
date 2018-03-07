@@ -19,7 +19,7 @@ class WorkExperience extends Component {
             <article>
               <h2>College/University</h2>
               <p className="subDetails">Qualification</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim.</p>
+              <p></p>
             </article>
           </div>
           <div className="clear"></div>

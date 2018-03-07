@@ -2,15 +2,8 @@
   "basics": {
     "name": "Amit Kushwaha",
     "email": "amitbvp13@gmail.com",
-    "phone": "9582705491",
     "github": "https://github.com/devilcrucifier",
     "summary": "Over the past 16 years I have continuously challenged myself with new languages, frameworks and methodologies. My core languages have always been html, css & javascript but I have also worked as a full stack php developer building both bespoke CMS solutions and small business applications. My current role at IAG is Front End Lead for a small React team and have been developing with React and Redux for the past 2 years.",
-    "location": {
-      "address": "Sutherland",
-      "postalCode": "2232",
-      "city": "New Delhi",
-      "countryCode": "India"
-    },
     "profiles": [
       {
         "network": "Twitter",
@@ -130,37 +123,28 @@
   ],
   "awards": [],
   "publications": [],
-  "skills": [
-    {
+  "skills": {
       "name": "Front End Development",
       "level": "Master",
       "keywords": [
         "HTML",
         "CSS",
         "Javascript",
-        "ES2015",
-        "jQuery",
-        "Typescript",
-        "Meteor",
+        "ES6",
         "React",
-        "Handlebars",
-        "SASS",
-        "LESS",
-        "Gulp",
-        "Grunt",
-        "Babel",
+        "Redux",
+        "C",
+        "C++",
+        "Python",
+        "Latex",
         "Bootstrap",
-        "Semantic UI",
-        "Material css",
-        "Node",
-        "php",
-        "MySQL",
+        "OpenCV",
         "Git",
-        "Jira",
-        "Responsive"
+        "SaleForce",
+        "Arduino",
+        "Raspberry Pi"
       ]
-    }
-  ],
+    },
   "languages": [
     {
       "language": "English",

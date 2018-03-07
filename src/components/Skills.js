@@ -11,14 +11,7 @@ class Skills extends Component {
 
           <div className="sectionContent">
             <ul className="keySkills">
-              <li>A Key Skill</li>
-              <li>A Key Skill</li>
-              <li>A Key Skill</li>
-              <li>A Key Skill</li>
-              <li>A Key Skill</li>
-              <li>A Key Skill</li>
-              <li>A Key Skill</li>
-              <li>A Key Skill</li>
+              <li>{data.skills.keywords.map(skill => <div>{skill}</div>)}</li>
             </ul>
           </div>
           <div className="clear"></div>
