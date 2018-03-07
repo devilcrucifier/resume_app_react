@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import data from '../resume.json'
 
 class WorkExperience extends Component {
   render() {

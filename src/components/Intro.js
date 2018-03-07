@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import MainDetails from './MainDetails.js';
-import data from '../resume.json'
 
 class Intro extends Component {
   render() {

@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import data from '../resume.json'
 
 class Skills extends Component {
   render() {
@@ -11,7 +10,7 @@ class Skills extends Component {
 
           <div className="sectionContent">
             <ul className="keySkills">
-              <li>{data.skills.keywords.map(skill => <div>{skill}</div>)}</li>
+              <li>{this.props.dataProp.skills.keywords.map(skill => <div>{skill}</div>)}</li>
             </ul>
           </div>
           <div className="clear"></div>
