@@ -7,7 +7,7 @@ class Intro extends Component {
         <div>
           <article>
             <div className="sectionTitle">
-              <h1>Personal Profile</h1>
+              <h1>Profile</h1>
             </div>
 
             <div className="sectionContent">
